@@ -129,7 +129,18 @@ Responsive corporate WordPress website with structured content, optimized layout
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Fareeza-Fayyaz\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Fareeza-Fayyaz&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)
+
+### 🎯 Profile Highlights
+
+- 💻 WordPress Development
+- 🧩 Custom Plugin Development
+- 🎨 Elementor Pro
+- 🛒 WooCommerce
+- ⚙️ PHP & MySQL
+- 🚀 Website Performance Optimization
+- 🔧 Troubleshooting & Bug Fixing
+- 🌐 Responsive Website Development
 
 ---
 
